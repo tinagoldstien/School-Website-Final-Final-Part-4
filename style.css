@@ -1,0 +1,31 @@
+body {
+
+    padding: 50px;
+    background-image: linear-gradient(rgb(238, 255, 0), rgb(0, 255, 213));
+}
+#contactus iframe {
+    width: 100%;
+}
+
+.contactus_1 h3 {
+    display: inline;
+}
+
+.contactus_1 a {
+    text-shadow: none; }
+
+    
+    img {
+        border-radius: 10px;
+        border-width: 10px;
+        border-color: brown;
+    }
+
+    #footer {
+        height: 20px;
+        background-color:white;
+    }
+
+    h4 {
+        text-align: center;
+    }
